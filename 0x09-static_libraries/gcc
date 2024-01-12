@@ -1,0 +1,8 @@
+ -c 0-memset.c -o 0-memset.o
+gcc -c 0-strcat.c -o 0-strcat.o
+gcc -c 1-isdigit.c -o 1-isdigit.o
+gcc -c 1-memcpy.c -o 1-memcpy.o
+gcc -c 1-strncat.c -o 1-strncat.o
+gcc -c 100-atoi.c -o 100-atoi.o
+gcc -c 2-strchr.c -o 2-strchr.o
+i
